@@ -25,3 +25,6 @@ const type3 = getCreditCardType('340000000000009');  // American Express
 
 ## Credits
 This project was created by Microsoft Copilot, as part of the GitHub Copilot training offered by DIO, and it was adjusted by Wglastonio.
+
+**Prompt:**
+@workspace Based in the file credit-card-rules.png under the folder assets, create a function in javascript in the index.js file to identify the credit card type based on the credit card number was input in the application.
